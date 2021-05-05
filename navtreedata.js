@@ -35,7 +35,7 @@ var NAVTREE =
       ] ],
       [ "Kompilace", "index.html#autotoc_md31", null ]
     ] ],
-    [ "Technická dokumnetace", "md__c___users__petr__documents_apo_semestralka__tech_documentation.html", [
+    [ "Technická dokumentace", "md__c___users__petr__documents_apo_semestralka__tech_documentation.html", [
       [ "Architektura aplikace", "md__c___users__petr__documents_apo_semestralka__tech_documentation.html#autotoc_md1", null ],
       [ "Blokové schéma algoritmu", "md__c___users__petr__documents_apo_semestralka__tech_documentation.html#autotoc_md2", null ],
       [ "Popis kompilace a spuštění programu", "md__c___users__petr__documents_apo_semestralka__tech_documentation.html#autotoc_md3", [
